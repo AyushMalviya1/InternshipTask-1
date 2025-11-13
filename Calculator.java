@@ -63,7 +63,7 @@ public class Calculator {
                 System.out.println("Invalid operator!");
                     break;
             }
-            System.out.println("if you want to continue enter 1 : ");
+            System.out.println("if you want to continue, enter 1 else enter 2 : ");
             int c = sc.nextInt();
 
             if(c == 1){
