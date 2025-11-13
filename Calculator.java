@@ -72,6 +72,7 @@ public class Calculator {
                 continueCalc = false;
             }
         }
+        sc.close();
 
     }
 }
